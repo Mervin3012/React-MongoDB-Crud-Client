@@ -1,6 +1,6 @@
 import Home from "./Home";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {BrowserRouter as Router,Routes,Route,Link} from 'react-router-dom';
+import {HashRouter as Router,Routes,Route,Link} from 'react-router-dom';
 import CrudPage from './CrudPage';
 function App(){
   return ( 
