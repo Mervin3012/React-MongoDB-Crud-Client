@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-MongoDB-Crud-Client/static/css/main.9132f7d0.css",
-    "main.js": "/React-MongoDB-Crud-Client/static/js/main.996c1e14.js",
+    "main.js": "/React-MongoDB-Crud-Client/static/js/main.a3c102ed.js",
     "index.html": "/React-MongoDB-Crud-Client/index.html",
     "main.9132f7d0.css.map": "/React-MongoDB-Crud-Client/static/css/main.9132f7d0.css.map",
-    "main.996c1e14.js.map": "/React-MongoDB-Crud-Client/static/js/main.996c1e14.js.map"
+    "main.a3c102ed.js.map": "/React-MongoDB-Crud-Client/static/js/main.a3c102ed.js.map"
   },
   "entrypoints": [
     "static/css/main.9132f7d0.css",
-    "static/js/main.996c1e14.js"
+    "static/js/main.a3c102ed.js"
   ]
 }
